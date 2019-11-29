@@ -1,1 +1,1 @@
-Codeacademy exercises
+Exercises
