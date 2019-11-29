@@ -1,2 +1,1 @@
-# codeacademy
-Web development path
+Codeacademy exercises
